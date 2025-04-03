@@ -1,0 +1,17 @@
+body {
+  margin: 0;
+  font-family: 'Poppins', 'Arial', sans-serif;
+  background-color: #a7bc53;
+  color: #b11010;
+  line-height: 1.6;
+  text-rendering: optimizeLegibility;
+}
+
+code {
+  font-family: 'Fira Code', 'Courier New', monospace;
+  background-color: #170303;
+  padding: 4px 8px;
+  border-radius: 5px;
+  font-size: 14px;
+  color: #9c225f;
+}
