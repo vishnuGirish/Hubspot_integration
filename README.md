@@ -8,7 +8,7 @@ Describe the installation process here.
 ## Step 2: Configuration
 Describe the configuration steps.
 
-![Configuration](https://github.com/your-repo-path/image2.png)
+![Configuration](https://github.com/vishnuGirish/Hubspot_integration/blob/main/image2.png)
 
 ## Step 3: Running the Application
 Explain how to run the application.
