@@ -3,7 +3,7 @@
 ## Step 1: Installation
 Describe the installation process here.
 
-![Installation](https://github.com/your-repo-path/image1.png)
+![Installation](https://github.com/vishnuGirish/Hubspot_integration/blob/main/image1.png)
 
 ## Step 2: Configuration
 Describe the configuration steps.
