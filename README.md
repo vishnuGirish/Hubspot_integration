@@ -13,7 +13,7 @@ Describe the configuration steps.
 ## Step 3: Running the Application
 Explain how to run the application.
 
-![Running the App](https://github.com/your-repo-path/image3.png)
+![Running the App](https://github.com/vishnuGirish/Hubspot_integration/blob/main/image3.png)
 
 ## Step 4: Output
 Show the final output.
