@@ -1,21 +1,22 @@
 # Project Steps
 
-## Step 1: Installation
-Describe the installation process here.
+## Step 1: 
+GIve user_id, org_id and integration type
+
 
 ![Installation](https://github.com/vishnuGirish/Hubspot_integration/blob/main/image1.png)
 
-## Step 2: Configuration
-Describe the configuration steps.
+## Step 2: 
+select the hubspot account
 
 ![Configuration](https://github.com/vishnuGirish/Hubspot_integration/blob/main/image2.png)
 
-## Step 3: Running the Application
-Explain how to run the application.
+## Step 3: 
+connect to hubspot
 
 ![Running the App](https://github.com/vishnuGirish/Hubspot_integration/blob/main/image3.png)
 
 ## Step 4: Output
-Show the final output.
+Load the Data from hubspot
 
 ![Output](https://github.com/vishnuGirish/Hubspot_integration/blob/main/image4.png)
